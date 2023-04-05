@@ -30,10 +30,10 @@ int main(){
         // Column_end
         for (int row = row_start; row <= row_end; row++)
         {
-            cout << a[row][column_end];
+            cout << a[row][column_end]<<"  ";
         }
 
-        row_end--;
+        column_end--;
 
         // Row__end
 
