@@ -16,7 +16,6 @@ int main(){
         str[i] -=32;
         
     }
-    cout<<str;
     
     
 
